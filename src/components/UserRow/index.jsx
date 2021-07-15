@@ -20,7 +20,7 @@ const UserRow = ({nickname, isBot, color, imgsrc, email}) => {
 				case '!git':
 
 					botContent = {
-						text: 'https://github.com/JohanDev6',
+						text: 'Da uma star lá porfavor :) | https://github.com/JohanDev6/Discord-Clone/',
 				     	username: nickname,
 				     	photoURL: imgsrc,
 				     	uid: null,
