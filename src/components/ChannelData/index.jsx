@@ -57,7 +57,7 @@ export default function ChannelData() {
 
   	setInterval(() => {
   		clearCollection('messages')
-  	}, 3600000)
+  	}, 1500000)
 
   	window.addEventListener('keyup', (ev) => {
   		if(ev.keyCode === 13){
@@ -71,7 +71,7 @@ export default function ChannelData() {
 
 			<div className='chat-info'>
 				<h2>Bem vindo ao Chat principal</h2>
-				<span>🤙 Por favor não tumultuar e esse chat é completamente limpo a cada 1 Hora 🤙</span>
+				<span>🤙 Por favor não tumultuar e esse chat é completamente limpo a cada 25 Minutos 🤙</span>
 
 				<p>Comandos: !git - !linkedin - !discord</p>
 				<Separator/>
