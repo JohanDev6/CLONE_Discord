@@ -67,7 +67,7 @@ const UserRow = ({nickname, isBot, color, imgsrc, email}) => {
 					setBotMessages(botContent)
 				break;
 
-				default: console.log('Comando executado')
+				default: console.log('Comando executado com sucesso!')
 			}
 		}
 	}
