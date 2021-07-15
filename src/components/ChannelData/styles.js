@@ -39,6 +39,7 @@ export const Container = styled.div`
 			font-weight: bold;
 
 			font-size: 2.4rem;
+			text-align: center;
 		}
 
 		span{
@@ -46,6 +47,7 @@ export const Container = styled.div`
 			color: #dcddde;
 			font-weight: 300;
 			font-size: 1.2rem;
+			text-align: center;
 		}
 
 		p{
@@ -53,6 +55,7 @@ export const Container = styled.div`
 			font-weight: 300;
 
 			font-size: 1.1rem;
+			text-align: center;
 		}
 	}
 `;
