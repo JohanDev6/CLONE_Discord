@@ -1,4 +1,4 @@
-<img width='100%' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUy9rA7E36-IWNjNfm6c37wcmAsmBzyiM-Og&usqp=CAU'/>
+<img width='100%' src='https://res.cloudinary.com/dbklberci/image/upload/v1627153683/Screenshot_1_uhvgtr.png'/>
 
 # Discord Clone
 
